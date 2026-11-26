@@ -41,8 +41,8 @@ export const profile = {
 };
 
 export const toStudents = {
-  zh: '對生成式 AI、物聯網、自走車競賽或天線設計有興趣嗎？不管你是想做專題、參加競賽，還是只是對某個問題好奇，都歡迎來研究室找我聊聊。我相信每位同學都能在動手做的過程中找到自己的亮點 ✨',
-  en: "Curious about generative AI, IoT, robot-car competitions or antenna design? Whether you want to do a capstone project, join a competition, or just have a question on your mind, come by my office and let's talk. I believe every student finds their own spark by building things ✨",
+  zh: '對生成式 AI、智慧影像辨識、智慧物聯網、自走車競賽或天線設計有興趣嗎？不管你是想做專題、參加競賽，還是只是對某個問題好奇，都歡迎來研究室找我聊聊。我相信每位同學都能在動手做的過程中找到自己的亮點',
+  en: "Curious about generative AI, smart image recognition, AIoT, robot-car competitions or antenna design? Whether you want to do a capstone project, join a competition, or just have a question on your mind, come by my office and let's talk. I believe every student finds their own spark by building things.",
 };
 
 export const news = [
@@ -50,7 +50,7 @@ export const news = [
   { date: '2026-08', zh: '取得 TQC+ GenAI 輔助資料擷取與分析認證。', en: 'Earned the TQC+ GenAI-Assisted Data Extraction and Analysis certification.' },
   { date: '2026-08', zh: '教育部教學實踐研究計畫「結合正念調節與學習遊戲化翻轉策略…」開始執行。', en: 'New MOE Teaching Practice Research project on mindfulness and gamified flipped learning started.' },
   { date: '2026-07', zh: '主持教育部「人工智慧物聯網跨域應用課程師資設備精進計畫」。', en: 'Leading the MOE project to upgrade AIoT cross-disciplinary course facilities.' },
-  { date: '2026', zh: '指導學生獲 2026 第二屆毫米波雷達 AI 創意應用賽決賽佳作兩件 🎉', en: 'Students won two Honorable Mentions at the 2nd mmWave Radar AI Creative Application Contest finals 🎉' },
+  { date: '2026-04', zh: '指導學生獲 2026 第二屆毫米波雷達 AI 創意應用賽決賽佳作兩件 🎉', en: 'Students won two Honorable Mentions at the 2nd mmWave Radar AI Creative Application Contest finals 🎉' },
   { date: '2025-08', zh: '接任國立臺東專科學校教務主任。', en: 'Appointed Dean of Academic Affairs, National Taitung Junior College.' },
   { date: '2024-02', zh: '翻轉教室研究論文刊登於 IEEE Transactions on Education。', en: 'Flipped-classroom study published in IEEE Transactions on Education.' },
 ];
