@@ -41,8 +41,8 @@ export const profile = {
 };
 
 export const toStudents = {
-  zh: '對生成式 AI、智慧影像辨識、智慧物聯網、自走車競賽或天線設計有興趣嗎？不管你是想做專題、參加競賽，還是只是對某個問題好奇，都歡迎來研究室找我聊聊。我相信每位同學都能在動手做的過程中找到自己的亮點',
-  en: "Curious about generative AI, smart image recognition, AIoT, robot-car competitions or antenna design? Whether you want to do a capstone project, join a competition, or just have a question on your mind, come by my office and let's talk. I believe every student finds their own spark by building things.",
+  zh: '對生成式 AI、智慧影像辨識、智慧物聯網、自走車競賽或天線設計有興趣嗎？不管你是想做專題、參加競賽，還是只是對某個問題好奇，都歡迎來研究室找我聊聊。我相信每位同學都能在動手做的過程中找到自己的亮點 ✨',
+  en: "Curious about generative AI, smart image recognition, AIoT, robot-car competitions or antenna design? Whether you want to do a capstone project, join a competition, or just have a question on your mind, come by my office and let's talk. I believe every student finds their own spark by building things ✨",
 };
 
 export const news = [
