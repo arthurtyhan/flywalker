@@ -96,7 +96,7 @@ function home(lang) {
   <div class="wrap hero-inner">
     <div class="hero-text">
       <p class="hello">${esc(tx(P.greeting, lang))}</p>
-      <h1>${esc(tx(P.name, lang))}${zh ? ' <span class="en-name">Tuan-Yung Han</span>' : ''}</h1>
+      <h1>${zh ? `${esc(P.name.zh)} <span class="degree">博士</span> <span class="en-name">${esc(P.name.en)}, Ph.D.</span>` : `${esc(P.name.en)}, <span class="degree">Ph.D.</span>`}</h1>
       <p class="hero-title">${esc(tx(P.title, lang))}<br><span class="badge">${esc(tx(P.role, lang))}</span></p>
       <p class="tagline">${esc(tx(P.tagline, lang))}</p>
       <ul class="chips">${P.keywords.map((k) => `<li>${esc(tx(k, lang))}</li>`).join('')}</ul>
