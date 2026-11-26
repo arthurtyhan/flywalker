@@ -46,6 +46,7 @@ export const toStudents = {
 };
 
 export const news = [
+  { date: '2026-11', zh: '指導學生榮獲 2026 全國智慧型自走車競賽 迷宮競速賽大專組第一名 🥇、循跡競速賽大專組第三名！', en: 'Students won 1st Place in the Maze race and 3rd Place in the Line-Following race (College division) at the 2026 National Smart Robot Car Contest! 🥇' },
   { date: '2026-08', zh: '取得 TQC+ GenAI 輔助資料擷取與分析認證。', en: 'Earned the TQC+ GenAI-Assisted Data Extraction and Analysis certification.' },
   { date: '2026-08', zh: '教育部教學實踐研究計畫「結合正念調節與學習遊戲化翻轉策略…」開始執行。', en: 'New MOE Teaching Practice Research project on mindfulness and gamified flipped learning started.' },
   { date: '2026-07', zh: '主持教育部「人工智慧物聯網跨域應用課程師資設備精進計畫」。', en: 'Leading the MOE project to upgrade AIoT cross-disciplinary course facilities.' },
