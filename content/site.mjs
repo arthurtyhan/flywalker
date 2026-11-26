@@ -132,8 +132,8 @@ export const honors = [
 
 export const life = {
   intro: {
-    zh: '喜歡運動、閱讀、音樂與電影，最愛的是旅行！也是合氣道三段，平常會在道場流流汗。',
-    en: 'I love sports, reading, music and movies — and above all, travelling! I also hold a 3rd-dan in Aikido and enjoy training at the dojo.',
+    zh: '喜歡運動、閱讀、音樂與電影，最愛的是旅行！也是合氣道三段，平常會在研究室或健身房。',
+    en: 'I love sports, reading, music and movies — and above all, travelling! I also hold a 3rd-dan in Aikido, and I usually spend my time in the lab or at the gym.',
   },
   travel: [
     { zh: '美國 奧蘭多', en: 'Orlando, USA' },
