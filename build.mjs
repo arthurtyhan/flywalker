@@ -191,7 +191,8 @@ ${section('pro', zh ? '專業服務 🌏' : 'Professional Service 🌏', `<div c
 
 // ---------------- 輸出 ----------------
 const builders = { index: home, about, research, teaching, lab: labPage, service };
-fs.rmSync(OUT, { recursive: true, force: true });
+fs.mkdirSync(OUT, { recursive: true });
+for (const f of fs.readdirSync(OUT)) fs.rmSync(path.join(OUT, f), { recursive: true, force: true });
 fs.cpSync('src', OUT, { recursive: true });
 for (const lang of ['zh', 'en']) {
   const dir = lang === 'en' ? path.join(OUT, 'en') : OUT;
