@@ -299,8 +299,8 @@ export const lab = {
 
 // 指導學生競賽獲獎（學生姓名保留原文）
 export const studentAwards = [
-  { year: 2026, zh: '全國智慧型自走車競賽 迷宮競速賽 大專組第一名 🥇', en: 'National Smart Robot Car Contest, Maze (College) — 1st Place 🥇' },
-  { year: 2026, zh: '全國智慧型自走車競賽 循跡競速賽 大專組第三名', en: 'National Smart Robot Car Contest, Line-Following (College) — 3rd Place' },
+  { year: 2026, zh: '全國智慧型自走車競賽 迷宮競速賽 大專組第一名（林○威、范○佑、林○安、李○銨） 🥇', en: 'National Smart Robot Car Contest, Maze (College) — 1st Place 🥇' },
+  { year: 2026, zh: '全國智慧型自走車競賽 循跡競速賽 大專組第三名（林○威、范○佑、林○安、李○銨）', en: 'National Smart Robot Car Contest, Line-Following (College) — 3rd Place' },
   { year: 2026, zh: '第二屆毫米波雷達 AI 創意應用賽決賽－佳作（黃○齊）、佳作（陳○騰）', en: '2nd mmWave Radar AI Creative Application Contest (Finals) — Honorable Mention ×2' },
   { year: 2024, zh: '全國機器人互動競賽 自走車循跡互動競速賽 大專組第二名（林○博、邱○傑、許○傑）、佳作（劉○濂、李○德、曾○瑋）', en: 'National Robot Interaction Contest, Line-Following (College) — 2nd Place; Honorable Mention' },
   { year: 2023, zh: '全國智慧型自走車競賽 迷宮競速賽 大專組第三名（陳○佑、林○廷、趙○誠）', en: 'National Smart Robot Car Contest, Maze (College) — 3rd Place' },
